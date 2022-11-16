@@ -1,15 +1,16 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Write a java program to find out the Chinese Zodiac sign for a given year using an array of strings to store the animal names. The Chinese Zodiac is based on a twelve-year cycle, with each year represented by a different animal: monkey, rooster, dog, pig, rat, ox, tiger, rabbit, dragon, snake, horse, or sheep—in this cycle. Note that year % 12 determines the Zodiac sign.
 
+Numbers are equal to the chinese zodiacs are as follows:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+        0:monkey    1:rooster   2:dog
+        3:pig       4:rat       5:ox
+        6:tiger     7:rabbit    8:dragon
+        9:snake     10:horse    11:sheep
 ```
-where, mass or weight is in Kg, height is in meters.
-
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
-
+Take birt year input from user and print it on the screen according to their chinese zodiac sign's.
 <!-- TECHNOLOGIES -->
 ### Technologies
 
@@ -22,7 +23,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/zodiac.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->
