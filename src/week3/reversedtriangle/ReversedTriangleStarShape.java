@@ -1,4 +1,4 @@
-package week3;
+package week3.reversedtriangle;
 
 import java.util.Scanner;
 

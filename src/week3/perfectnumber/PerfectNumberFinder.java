@@ -1,4 +1,4 @@
-package week3;
+package week3.perfectnumber;
 
 import java.util.Scanner;
 

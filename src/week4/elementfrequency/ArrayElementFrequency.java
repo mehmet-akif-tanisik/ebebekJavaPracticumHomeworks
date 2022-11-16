@@ -1,4 +1,4 @@
-package week4;
+package week4.elementfrequency;
 
 import java.util.Arrays;
 

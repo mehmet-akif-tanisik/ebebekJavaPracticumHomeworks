@@ -1,4 +1,4 @@
-package week2;
+package week2.leapyear;
 
 import java.util.Scanner;
 

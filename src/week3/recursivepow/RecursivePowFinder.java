@@ -1,4 +1,4 @@
-package week3;
+package week3.recursivepow;
 
 import java.util.Scanner;
 
