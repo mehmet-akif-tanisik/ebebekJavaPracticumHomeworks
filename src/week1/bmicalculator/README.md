@@ -14,7 +14,7 @@ Write a program that takes as input the weight and height from a user. Program s
 ### Technologies
 
 
-<a href="https://www.java.com/" target="_blank"><img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\java.svg" alt="Java" height="80" /></a>  
+<a href="\images\java.svg" alt="Java" height="80" /></a>  
 
 
 
