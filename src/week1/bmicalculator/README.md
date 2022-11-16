@@ -14,14 +14,14 @@ Write a program that takes as input the weight and height from a user. Program s
 ### Technologies
 
 
-<a href="\images\java.svg" alt="Java" height="80" /></a>  
+<a href="images/java.svg" alt="Java" height="80" /></a>  
 
 
 
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 
-<img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\outputSS\week1\bmi.png" alt="bmi-calculator" />
+<img src="images/outputSS/week1/bmi.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->
