@@ -1,27 +1,33 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Write a Java program that calculates the total amount of bill according to the kilogram of product entered by the user.
 
+
+Item prices are as it follows:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+        Pear      : 2,14 TL
+        Apple     : 3,67 TL
+        Tomato    : 1,11 TL
+        Banana    : 0,95 TL
+        Eggplant  : 5,00 TL
 ```
-where, mass or weight is in Kg, height is in meters.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+User should enter the item weights in kilograms.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
 
 
-<a href="https://www.java.com/" target="_blank"><img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\java.svg" alt="Java" height="80" /></a>  
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" alt="Java" height="80" /></a>
+
 
 
 
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
-
-<img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\outputSS\week1\bmi.png" alt="bmi-calculator" />
+<!--CHANGE ONLY SRC -NOTHING ELSE -->
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/grocery.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->
@@ -58,7 +64,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## ebebek Java & QA & SAP Spartacus Practicum
 <div align="center">
   <a href="https://www.e-bebek.com">
-    <img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\ebebek-logo.png" alt="Logo" width="200" height="50">
+    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/ebebek-logo.png" alt="Logo" width="200" height="50">
   </a>
 
 <h3 align="center">Company: ebebek</h3>
@@ -67,7 +73,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br><br>
 <div align="center">
   <a href="https://www.patika.dev/tr">
-    <img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\patika-logo.svg" alt="Logo" width="240" height="50">
+    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/patika-logo.svg" alt="Logo" width="240" height="50">
   </a>
 <h3 align="center">Organizer: Patika.dev</h3>
 </div>
