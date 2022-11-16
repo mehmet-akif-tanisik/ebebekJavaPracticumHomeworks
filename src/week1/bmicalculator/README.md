@@ -14,13 +14,14 @@ Write a program that takes as input the weight and height from a user. Program s
 ### Technologies
 
 
-<a href="images/java.svg" alt="Java" height="80" /></a>  
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" alt="Java" height="80" /></a>
+
 
 
 
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
-
+<!--CHANGE ONLY SRC -NOTHING ELSE -->
 <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
 
 
@@ -58,7 +59,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## ebebek Java & QA & SAP Spartacus Practicum
 <div align="center">
   <a href="https://www.e-bebek.com">
-    <img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\ebebek-logo.png" alt="Logo" width="200" height="50">
+    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/ebebek-logo.png" alt="Logo" width="200" height="50">
   </a>
 
 <h3 align="center">Company: ebebek</h3>
@@ -67,7 +68,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br><br>
 <div align="center">
   <a href="https://www.patika.dev/tr">
-    <img src="C:\Users\Matnsk\Desktop\ebebekJavaPracticumHomeworks\images\patika-logo.svg" alt="Logo" width="240" height="50">
+    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/patika-logo.svg" alt="Logo" width="240" height="50">
   </a>
 <h3 align="center">Organizer: Patika.dev</h3>
 </div>
