@@ -1,20 +1,35 @@
 package week2.chinesezodiac;
-
-
-
 import java.util.Scanner;
 
 public class ChineseZodiacSignFinder {
 
     public static void main(String[] args) {
+        showZodiacSign();
+    }
+
+    /**
+     * showZodiacSign() method gets birth year input from user and calls chineseZodiacFinder() method.
+     * outputs the chinese zodiac sign as a String on the screen.
+     */
+    public static void showZodiacSign() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Please enter a birth year: ");
         int year = input.nextInt();
 
+        System.out.println("Your chinese zodiac sign is " + chineseZodiacFinder(year));
+    }
+
+    /**
+     * This method takes a mod of a birthyear and returns the chinese zodiac sign according to the remaning number.
+     * @param birthYear a person's birthyear
+     * @return a chinese zodiac sign as String.
+     */
+    public static String chineseZodiacFinder(int birthYear) {
+
         String zodiacSign = "";
 
-        switch (year % 12) {
+        switch (birthYear % 12) {
             case 0:
                 zodiacSign = "Monkey";
                 break;
@@ -52,7 +67,6 @@ public class ChineseZodiacSignFinder {
                 zodiacSign = "Sheep";
                 break;
         }
-
-        System.out.println("Your chinese zodiac sign is " + zodiacSign);
+        return zodiacSign;
     }
 }
