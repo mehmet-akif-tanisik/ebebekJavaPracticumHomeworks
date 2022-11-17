@@ -23,7 +23,7 @@ Take birt year input from user and print it on the screen according to their chi
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/zodiac.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/zodiac.png" alt="zodiac" />
 
 
 <!-- LICENSE -->

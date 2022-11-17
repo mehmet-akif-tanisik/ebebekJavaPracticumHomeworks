@@ -25,7 +25,7 @@ Write a program that takes number input from a user. Program should print the pa
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/pattern.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/pattern.png" alt="pattern" />
 
 
 <!-- LICENSE -->

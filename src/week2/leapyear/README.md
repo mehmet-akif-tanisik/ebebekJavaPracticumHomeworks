@@ -17,7 +17,7 @@ Write a program that takes as input year from a user. Program should check if ye
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/leap.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/leap.png" alt="leap-year" />
 
 
 <!-- LICENSE -->

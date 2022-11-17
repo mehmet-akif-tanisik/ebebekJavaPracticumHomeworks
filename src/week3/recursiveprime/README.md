@@ -24,7 +24,7 @@ Program will output if the number is prime "Number is prime number". Otherwise, 
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/recursive-prime.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/recursive-prime.png" alt="recursive-prime" />
 
 
 <!-- LICENSE -->

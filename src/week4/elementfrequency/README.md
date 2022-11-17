@@ -26,7 +26,7 @@ Program should print the frequencies of an elements in the array.
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week4/frequencies.png" alt="array-element-frequencies" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week4/frequency.png" alt="array-element-frequencies" />
 
 
 <!-- LICENSE -->
