@@ -1,19 +1,16 @@
 package week3.primenumbers;
-
 import java.util.Scanner;
 
 public class PrimeNumbers {
     public static void main(String[] args) {
-        Scanner keyboard = new Scanner(System.in);
-
-        System.out.print("Please enter limit to see prime numbers between 0-Limit: ");
-        int n = keyboard.nextInt();
-
-        for (int i = 0; i <= n; ++i)
-            if (isPrime(i))
-                System.out.printf("%d ", i);
+        printPrimes();
     }
 
+    /**
+     * Finds if the value is prime or not.
+     * @param val is a value that will be checked its prime condition.
+     * @return  true if the val is prime number. Otherwise, false.
+     */
     public static boolean isPrime(int val) {
         if (val <= 1)
             return false;
@@ -29,5 +26,21 @@ public class PrimeNumbers {
             if (val % i == 0)
                 return false;
         return true;
+    }
+
+    /**
+     * printPrimes() method gets n as input and loop 0 through N to check
+     * if the numbers are prime or not. Prints all prime numbers between 0-N.
+     */
+    public static void printPrimes(){
+
+        Scanner keyboard = new Scanner(System.in);
+
+        System.out.print("Please enter limit to see prime numbers between 0-Limit: ");
+        int n = keyboard.nextInt();
+
+        for (int i = 0; i <= n; ++i)
+            if (isPrime(i))
+                System.out.printf("%d ", i);
     }
 }
