@@ -1,14 +1,22 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+### What is a Transpose of matrix ?
+Converting rows of a matrix into columns and columns of a matrix into row is called transpose of a matrix.
 
+Example:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
-```
-where, mass or weight is in Kg, height is in meters.
+        Matrix
+        a11    a12    a13
+        a21    a22    a23
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+        Transposed Matrix
+        a11    a21
+        a12    a22
+        a13    a23
+```
+
+Write a program that will find the transpose of a matrix MxN. Program should print the NxM.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +30,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week4/transpose.png" alt="matrix-transpose" />
 
 
 <!-- LICENSE -->

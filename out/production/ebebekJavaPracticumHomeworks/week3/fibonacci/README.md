@@ -1,14 +1,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+The Fibonacci series is a series where the next term is the sum of the previous two terms. The first two terms of the Fibonacci sequence are 0 followed by 1.
 
+Example:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+    Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ...
 ```
-where, mass or weight is in Kg, height is in meters.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+Write a program that takes as input number from a user. Program should print Fibonacci Series with n number.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +22,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/fibonacci.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->

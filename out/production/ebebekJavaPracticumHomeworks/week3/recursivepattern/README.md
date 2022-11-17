@@ -1,14 +1,17 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Write a "Recursive" method in Java language without looping which obeys the following rule based on the value n received from the user.
 
+Rule : Subtract 5 from the entered number up to where the entered number is 0 or negative. Print the last value to the screen during each subtraction. Add 5 again after the number is negative or 0. Again, print the last value of the number on the screen in each addition operation.
+
+Example
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+        Number : 16
+        Output : 16 11 6 1 -4 1 6 11 16 
 ```
-where, mass or weight is in Kg, height is in meters.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+Write a program that takes number input from a user. Program should print the pattern using RECURSIVE method.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +25,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/pattern.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->

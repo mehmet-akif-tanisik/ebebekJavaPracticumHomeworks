@@ -1,14 +1,15 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Prime number is a number that is greater than 1 and divided by 1 or itself only. In other words, prime numbers can't be divided by other numbers than itself or 1.
 
+Example:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+ For example 2, 3, 5, 7, 11, 13, 17.... are the prime numbers.
 ```
-where, mass or weight is in Kg, height is in meters.
+Note: 0 and 1 are not prime numbers. The 2 is the only even prime number because all the other even numbers can be divided by 2.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+Write a program that takes as input limit from a user. Program should print all the prime numbers between 0-limit.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +23,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/prime.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->

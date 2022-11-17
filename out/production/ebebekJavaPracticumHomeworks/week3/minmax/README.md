@@ -1,14 +1,22 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Write a program that finds the largest and smallest numbers from N counting numbers entered from the keyboard in Java and writes these numbers to the screen.
 
+Example:
 ```Java
-BMI = ( mass or weight ) / ( height * height );
-```
-where, mass or weight is in Kg, height is in meters.
+        How many numbers you will enter ?
+        Number: 3
+        
+        1. number: -20
+        2. number: 3
+        3. number: 0
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+        Max: 3
+        Min: -20
+```
+
+Program takes total number and individual numbers as input from a user. Program should print the max and min of entered numbers.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +30,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/minmax.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->

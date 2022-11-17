@@ -1,14 +1,19 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+### What is a Perfect Number ?
+A number whose sum of factors (excluding the number itself) is equal to the number is called a perfect number. In other words, if the sum of positive divisors (excluding the number itself) of a number equals the number itself is called a perfect number.
 
+Example: 
 ```Java
-BMI = ( mass or weight ) / ( height * height );
+Lets take the number 496 and check it is a perfect number or not.
+First, we find the factors of 496 i.e. 1, 2, 4, 8, 16, 31, 62, 124, and 248.
+Lets find the sum of factors (1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 +248 = 496).
+We observe that the sum of factors is equal to the number itself.
+Hence, the number 496 is a perfect number.
 ```
-where, mass or weight is in Kg, height is in meters.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+Write a program that takes as input number from a user. Program should print if the number is Perfect number or not to the screen.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +27,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week3/perfect.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->
