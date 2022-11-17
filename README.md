@@ -25,11 +25,11 @@ Happy coding.
 
 
 
-<p float="left">
-  <img style="margin-right:30px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" width="100" />
-  <img style="margin-right:60px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/chat.png" width="100" /> 
-  <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/sap.png" width="100" />
-</p>
+
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" width="100" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/chat.png" width="100" /> 
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/sap.png" width="100" />
+
 
 
 
