@@ -25,8 +25,8 @@ Happy coding.
 
 
 <a href="https://www.java.com/" target="_blank"><img style="padding-right: 30px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" alt="Java" height="80" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="padding-right: 40px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/chat.png" alt="QA" height="80" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="padding-right: 10px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/sap.png" alt="SAP" height="80" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="padding-right: 40px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/chat.png" alt="QA" height="80" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="padding-right: 10px" src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/sap.png" alt="SAP" height="80" /></a>
 
 
 <!-- LICENSE -->
