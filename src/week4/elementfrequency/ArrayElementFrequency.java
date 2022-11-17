@@ -4,7 +4,11 @@ import java.util.Arrays;
 
 public class ArrayElementFrequency {
 
-
+    /**
+     * This method counts the element's frequencies in the array.
+     * And print them on the screen.
+     * @param arr array of an int elements
+     */
     public static void countElementFrequencies(int[] arr)
     {
         boolean[] visited = new boolean[arr.length];
