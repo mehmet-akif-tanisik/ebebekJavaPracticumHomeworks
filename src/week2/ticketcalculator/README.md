@@ -1,14 +1,16 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-The Body Mass Index (BMI) or Quetelet index is a value derived from the mass (weight) and height of an individual, male or female. The BMI is defined as the body mass divided by the square of the body height and is universally expressed in units of kg/m2, resulting from the mass in kilograms and height in meters. The formula is:
+Write a program that calculates air ticket prices according to distance and conditions with Java. Get distance (KM), age and flight type (One Way, Return) information from the user. Take the fare per distance as 0.10 TL / km. First, calculate the total price of the flight and then apply the following discounts to the customer according to the conditions;
 
-```Java
-BMI = ( mass or weight ) / ( height * height );
-```
-where, mass or weight is in Kg, height is in meters.
+* Values received from the user must be valid (distance and age are positive numbers, flight type is 1 or 2). Otherwise, warning should be given to the console.("You Have Entered Wrong Data!")
+* If the person is younger than 12 years old, 50% discount is applied on the ticket price.
+* If the person is between the ages of 12-24, 10% discount is applied on the ticket price.
+* If the person is over 65 years old, 30% discount is applied on the ticket price.
+* If the person has chosen the "Flight Type" as return, 20% discount is applied on the ticket price.
 
-Write a program that takes as input the weight and height from a user. Program should calculate and output the BMI.
+
+Program should calculate the total amount of bill after discounts applied if any and output the total amount of bill on the screen.
 
 <!-- TECHNOLOGIES -->
 ### Technologies
@@ -22,7 +24,7 @@ Write a program that takes as input the weight and height from a user. Program s
 <!-- OUTPUT SCREENSHOTS -->
 ### Output Screenshots
 <!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week1/bmi.png" alt="bmi-calculator" />
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/outputSS/week2/flight.png" alt="bmi-calculator" />
 
 
 <!-- LICENSE -->
