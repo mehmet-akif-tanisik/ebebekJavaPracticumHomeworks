@@ -1,7 +1,4 @@
 package week4.salarycalculator;
-
-
-
 public class Test {
 
     public static void main(String[] args) {
@@ -28,29 +25,5 @@ public class Test {
         System.out.println("----------------------------------------------------");
         System.out.println("IF TOTAL WORKING YEARS GREATER THAN 20 YEARS\n");
         System.out.println(eren);
-
-        /*
-        OUTPUT OF OBJECT EREN AS FOLLOWS:
-
-        Name: Eren
-        Salary: 2000.0
-        Work Hours: 45
-        Hire Year: 1985
-        Tax: 60.0
-        Bonus: 150.0
-        Salary Raise: 300.0
-        Net Salary: 2090.0
-        Total Salary: 2390.0
-
-         */
-
-
-
-
-
-
-
-
-
     }
 }
